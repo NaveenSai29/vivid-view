@@ -154,7 +154,7 @@ const Header = () => {
             <ThemeToggler />
 
             <Link
-              href="https://online-learning-platform-xi.vercel.app/"
+              href="https://online-learning-platform-xi.vercel.app/sign-in?redirect_url=https%3A%2F%2Fonline-learning-platform-xi.vercel.app%2F"
               className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho"
             >
               Login
